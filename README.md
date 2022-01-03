@@ -250,6 +250,7 @@ PCB rates are as low as 2$ for 1-4 Layer PCB
 This PCB is specialy designe for CNC machine it have two L293D IC which control two stepper motors
 and provision for micro servo motor
 
+![image](https://user-images.githubusercontent.com/19898602/147938189-0145953e-8e49-4ded-be12-5e69d6eaeef8.png)
 
 
 ![image](https://user-images.githubusercontent.com/19898602/130725979-483863b4-c32e-418b-aa6b-54e3c817b589.png)
