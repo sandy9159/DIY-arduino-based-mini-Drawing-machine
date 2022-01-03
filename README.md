@@ -243,7 +243,9 @@ So some days back I have developed my Multipurpose PCB. and order it from [JLCPC
 This PCB is used to build wide range of arduino projects 
 
 [JLCPCB](https://jlcpcb.com/IAT ) is offering affordable rates for quality PCB & if you are first time customer of [JLCPCB](https://jlcpcb.com/IAT )
-there are some welcome offors for you so don't miss then visit now **[JLCPCB](https://jlcpcb.com/IAT )**
+there are some welcome offers for you so don't miss then visit now **[JLCPCB](https://jlcpcb.com/IAT )**
+
+PCB rates are as low as 2$ for 1-4 Layer PCB 
 
 This PCB is specialy designe for CNC machine it have two L293D IC which control two stepper motors
 and provision for micro servo motor
